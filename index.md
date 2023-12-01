@@ -11,3 +11,6 @@
 $ npm init
 Initialized a node repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Learn all you can on Open Source
+- [ ] Make as much contributions as you can
+- [ ] Pursue a career in Open Source
